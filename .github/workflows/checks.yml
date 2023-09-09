@@ -1,6 +1,6 @@
 ---
 name: Checks
-#testing for git
+
 on: [push]
 
 jobs:
